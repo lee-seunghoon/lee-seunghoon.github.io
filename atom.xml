@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>셜록처럼 사고하고, 생각하는 AI 기술 블로그</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Python 강좌(2) - Python 제어문</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python_basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 Oct 2021 12:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/python-control-statement</link>
+        <guid isPermaLink="true">http://localhost:4000/python-control-statement</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 정리 Test</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python_basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Sat, 09 Oct 2021 13:19:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/python_basic</link>
+        <guid isPermaLink="true">http://localhost:4000/python_basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>AI Test</title>
+        
+          <description>&lt;h1 id=&quot;ai-시작&quot;&gt;AI 시작&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Thu, 07 Oct 2021 21:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/AI_basic</link>
+        <guid isPermaLink="true">http://localhost:4000/AI_basic</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
