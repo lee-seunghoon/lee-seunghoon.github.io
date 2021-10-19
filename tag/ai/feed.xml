@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/ai/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-10-18T11:50:21+09:00</updated>
+  <updated>2021-10-19T14:45:57+09:00</updated>
   <id>http://localhost:4000/tag/ai/feed.xml</id>
 
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">AI Test</title>
-      <link href="http://localhost:4000/AI_basic" rel="alternate" type="text/html" title="AI Test" />
+      <link href="http://localhost:4000/AIbasic" rel="alternate" type="text/html" title="AI Test" />
       <published>2021-10-07T21:00:00+09:00</published>
       <updated>2021-10-07T21:00:00+09:00</updated>
-      <id>http://localhost:4000/AI_basic</id>
-      <content type="html" xml:base="http://localhost:4000/AI_basic">&lt;h1 id=&quot;ai-시작&quot;&gt;AI 시작&lt;/h1&gt;
+      <id>http://localhost:4000/AIbasic</id>
+      <content type="html" xml:base="http://localhost:4000/AIbasic">&lt;h1 id=&quot;ai-시작&quot;&gt;AI 시작&lt;/h1&gt;
 
 &lt;p&gt;안녕하세요.
 AI 관련 머신러닝/딥러닝에 관해 업로드합니다.&lt;/p&gt;
