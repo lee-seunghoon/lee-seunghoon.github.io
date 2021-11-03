@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>셜록처럼 사고하고, 생각하는 AI 기술 블로그</description>
     <link>
-    http://localhost:4000</link>
+    https://lee-seunghoon.github.io</link>
     
       
       <item>
@@ -20,8 +20,8 @@
         
         <pubDate>Sun, 10 Oct 2021 12:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/pythoncontrolstatement</link>
-        <guid isPermaLink="true">http://localhost:4000/pythoncontrolstatement</guid>
+        https://lee-seunghoon.github.io/pythoncontrolstatement</link>
+        <guid isPermaLink="true">https://lee-seunghoon.github.io/pythoncontrolstatement</guid>
       </item>
       
     
@@ -39,8 +39,8 @@
         
         <pubDate>Sat, 09 Oct 2021 13:19:00 +0900</pubDate>
         <link>
-        http://localhost:4000/pythonbasic</link>
-        <guid isPermaLink="true">http://localhost:4000/pythonbasic</guid>
+        https://lee-seunghoon.github.io/pythonbasic</link>
+        <guid isPermaLink="true">https://lee-seunghoon.github.io/pythonbasic</guid>
       </item>
       
     
@@ -54,8 +54,8 @@
         
         <pubDate>Thu, 07 Oct 2021 21:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/AIbasic</link>
-        <guid isPermaLink="true">http://localhost:4000/AIbasic</guid>
+        https://lee-seunghoon.github.io/AIbasic</link>
+        <guid isPermaLink="true">https://lee-seunghoon.github.io/AIbasic</guid>
       </item>
       
     
